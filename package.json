@@ -1,0 +1,35 @@
+{
+  "name": "@advanced-rest-client/prettier-config",
+  "description": "Prettier config for API components",
+  "version": "0.1.0",
+  "license": "Apache-2.0",
+  "main": "prettier.config.js",
+  "keywords": [
+    "advanced-rest-client",
+    "config",
+    "prettier"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "authors": [
+    "Pawel Psztyc",
+    "The Advanced REST client authors <arc@mulesoft.com>"
+  ],
+  "contributors": [
+    "Pawel Psztyc",
+    "The Advanced REST client authors <arc@mulesoft.com>"
+  ],
+  "bugs": {
+    "url": "https://github.com/advanced-rest-client/advanced-rest-client/issues",
+    "email": "arc@mulesoft.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/advanced-rest-client/advanced-rest-client.git"
+  },
+  "dependencies": {
+    "eslint-config-prettier": "^6.0.0",
+    "prettier": "^1.18.2"
+  }
+}
