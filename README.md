@@ -8,7 +8,7 @@ Based on [@open-wc/prettier-config](https://github.com/open-wc/open-wc/tree/mast
 -   Install `@advanced-rest-client/prettier-config`.
 
 ```bash
-npm i --save-dev @@advanced-rest-client/prettier-config
+npm i --save-dev @advanced-rest-client/prettier-config
 ```
 
 -   Create `prettier.config.js` in the root directory of your project.
